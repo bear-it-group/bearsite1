@@ -1,5 +1,4 @@
 # Site settings
-#title: PHOTORAMA
 title: BEAR-IT-GROUP
 email: ""
 description: "Photo Journal"
@@ -16,11 +15,9 @@ share: true
 
 # Owner/author information
 owner:
-  #name:   photorama
   name: bear-it-group
   avatar: avatar.png
   favicon: favicon.ico
-  #info: photography website template
   info: bear-it-group website template
 
 # Settings for comments helper
@@ -36,8 +33,8 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "/gallery/"  
-  - JOURNAL: "/journal/"
+  - NEWS: "/news/"  
+  - CONTACTS: "/contacts/"
   - ABOUT: "/about/"
 
 # All translation keys
@@ -55,10 +52,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
+#paginate_path: "/contacts/page:num/"
+#permalink: "/contacts/:title/"
+#categories_path: "/contacts/category/"
+#tags_path: "/contacts/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

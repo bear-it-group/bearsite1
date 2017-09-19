@@ -1,33 +1,13 @@
 ---
 layout: "post"
-title: "Multiple Galleries"
-subtitle: "A post with multiple galleries arranged with ISOTOPE"
-active: "journal"
+title: "Meeting"
+subtitle: "A post about our upcoming meeting"
+active: "news"
 image:
-  feature: "pc007.jpg"
+  feature: "/img/bears_cropped.jpg"
 date: "2016-02-01"
-header-img: "img/postcover/pc007.jpg"
+header-img: "img/placeholder.jpg"
 comments: "true"
-gallery1: 
-  - image_path: /img/galleries/g01/bg1.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g01/bg2.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g01/bg3.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama 
-gallery2: 
-  - image_path: /img/galleries/g02/bg1.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g02/bg2.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g02/bg3.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama 
 ---
 
 

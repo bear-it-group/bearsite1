@@ -1,5 +1,4 @@
 {
-  //"name": "photorama",
   "name": "bear-it-group",
   "version": "1.0.0",
   "description": "Theme by [Start Bootstrap](http://startbootstrap.com/).",
@@ -9,16 +8,13 @@
   },
   "repository": {
     "type": "git",
-    //"url": "https://github.com/sunbliss/photorama.git"
     "url": "https://github.com/bear-it-group/bearsite"
   },
   "author": "Sergey Ilyushkin",
   "license": "Apache-2.0",
   "bugs": {
-    //"url": "https://github.com/sunbliss/photorama/issues"
     "url": "https://github.com/bear-it-group/bearsite/issues"
   },
-  //"homepage": "http://sunbliss.github.io",
   "homepage": "http://bear-it-group.github.io",
   "dependencies": {
     "searchkit": "^0.7.0"
