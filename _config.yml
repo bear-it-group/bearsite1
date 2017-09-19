@@ -1,24 +1,27 @@
 # Site settings
-title: PHOTORAMA
+#title: PHOTORAMA
+title: BEAR-IT-GROUP
 email: ""
 description: "Photo Journal"
 url: "localhost:4000" #"https://bear-it-group.github.io"
 baseurl: ""
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+#instagram_username: ""
+#github_username:  ""
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  #name:   photorama
+  name: bear-it-group
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  #info: photography website template
+  info: bear-it-group website template
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
