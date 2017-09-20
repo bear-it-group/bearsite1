@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - NEWS: "/news/"  
-  - CONTACTS: "/contacts/"
-  - ABOUT: "/about/"
+  - NEWS: "https://bear-it-group.github.io/bearsite1/news/"  
+  - CONTACTS: "https://bear-it-group.github.io/bearsite1/contacts/"
+  - ABOUT: "https://bear-it-group.github.io/bearsite1/about/"
 
 # All translation keys
 translations:
