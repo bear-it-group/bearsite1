@@ -2,8 +2,8 @@
 title: BEAR-IT-GROUP
 email: ""
 description: "Photo Journal"
-url: "localhost:4000" #"https://bear-it-group.github.io"
-baseurl: ""
+baseurl: "/bearsite1"
+url: "https://bear-it-group.github.io"
 facebook_username: ""
 twitter_username: ""
 #instagram_username: ""
